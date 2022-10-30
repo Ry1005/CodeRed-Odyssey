@@ -1,0 +1,118 @@
+#ivysaur{
+
+    background-color: lightskyblue;
+    height: 50px;
+    width: 50px;
+
+    position: absolute;
+    top: 350px;
+    left: 250px
+}
+#ivyDiv{
+
+    background-color: lightskyblue;
+    height: 50px;
+    width: 50px;
+
+    position: sticky;
+    top: 350px;
+    left: 250px
+}
+
+#charmeleon{
+  
+   
+    background-color: rgb(228, 98, 5);
+    height: 50px;
+    width: 50px;
+    
+   
+
+    position: absolute;
+    top: 350px;
+    left: 450px
+}
+
+#charDiv{
+  
+   
+    background-color: rgb(228, 98, 5);
+    height: 50px;
+    width: 50px;
+    
+   
+
+    position: sticky;
+    top: 350px;
+    left: 450px
+}
+
+#wartortle{
+
+    background-color: rgb(19, 73, 210);
+    height: 50px;
+    width: 50px;
+
+    position: absolute;
+    top: 350px;
+    left: 650px
+}
+
+#warDiv{
+
+    background-color: rgb(19, 73, 210);
+    height: 50px;
+    width: 50px;
+
+    position: sticky;
+    top: 350px;
+    left: 650px
+}
+
+#pidgeotto{
+
+
+    background-color: rgb(81, 43, 7);
+    height: 50px;
+    width: 50px;
+
+    position: absolute;
+    top: 350px;
+    left: 850px
+}
+
+#pidgDiv{
+
+
+    background-color: rgb(81, 43, 7);
+    height: 50px;
+    width: 50px;
+
+    position: sticky;
+    top: 350px;
+    left: 850px
+}
+
+#jigglypuff{
+
+
+    background-color: rgb(250, 135, 217);
+    height: 50px;
+    width: 50px;
+    
+    position: absolute;
+    top: 350px;
+    left: 1050px
+}
+
+#jiggDiv{
+
+
+    background-color: rgb(250, 135, 217);
+    height: 50px;
+    width: 50px;
+    
+    position: sticky;
+    top: 350px;
+    left: 1050px
+}
